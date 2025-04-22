@@ -1,1 +1,2 @@
-print("Hello from main app")
+from utils import senior_feature
+print(senior_feature())
